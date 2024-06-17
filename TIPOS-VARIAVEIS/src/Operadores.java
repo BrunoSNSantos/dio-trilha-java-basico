@@ -78,7 +78,7 @@ public class Operadores {
         boolean condicaoDois = false;
 
         if (condicaoUm || condicaoDois){
-            System.out.println("As duas condições são verdadeiras ");
+            System.out.println("Uma das condições é verdadeira ");
         }
     
     }
